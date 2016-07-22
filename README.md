@@ -1,1 +1,1 @@
-# YamblzMusicHackatone.github.io
+# YamblzMusicHackathon.github.io
